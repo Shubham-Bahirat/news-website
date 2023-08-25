@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Westbrook",
+            "title": "Soaring yields leave stocks struggling for headway",
+            "description": "Treasury yields hit new decade highs in Asia on Tuesday as traders grew wary of how long interest rates might need to stay elevated, with the higher risk-free rate putting a dampener on stocks even as beaten-down Chinese markets attempted a rebound.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-08-22/",
+            "urlToImage": "https://www.reuters.com/resizer/ip8qer8P1SG6nQSdSAe_7e_D1iE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JAQ6SVUAKRKMXCEYFJ5WFEQQXQ.jpg",
+            "publishedAt": "2023-08-22T02:32:05Z",
+            "content": "SINGAPORE, Aug 22 (Reuters) - Treasury yields hit new decade highs in Asia on Tuesday as traders grew wary of how long interest rates might need to stay elevated, with the higher risk-free rate putti… [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Stock Market Today: Dow, S&P Live Updates for August 22",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA4LTIxL3N0b2NrLW1hcmtldC10b2RheS1kb3ctcy1wLWxpdmUtdXBkYXRlc9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-21T22:43:12+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Stay up to date on the latest news, research and market updates on Canadian investments and stocks.",
+            "url": "http://business.financialpost.com/category/investing/",
+            "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+            "publishedAt": "2023-05-17T20:37:35.4307753Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Kevin Kelleher",
+            "title": "Buybacks vs dividends? In market downturns, the rules may change",
+            "description": "CFOs can return profits to shareholders with dividends and buybacks. Here's how they may fare during a stock market selloff or recession.",
+            "url": "https://fortune.com/2022/06/01/buybacks-vs-dividends-stock-market-downturns-recession-cfo-daily-newsletter/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1310316502.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T10:15:00Z",
+            "content": "Skip to Content"
+        }
+    ]
+}
