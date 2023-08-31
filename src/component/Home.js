@@ -3,8 +3,9 @@ import React, { Component } from 'react';
 export class Home extends Component {
   render() {
     return (
-   
-    <div class="jumbotron" style={{backgroundColor: 'yellow'}}>
+   <div className='my-3'>
+    <br/><br/> <br/>  <br/>  <br/>  <br/>
+    <div class="jumbotron " style={{backgroundColor: 'yellow'}}>
     <div class="container text-center">
     <h1>RK News - Top Headlines </h1>      
     <p>
@@ -17,7 +18,7 @@ export class Home extends Component {
             Technology</h3></p>
     </div>
     </div>
-      
+    </div>
     );
   }
 }

@@ -7,6 +7,7 @@ export class Nevbar extends Component {
         <>
         <nav  className=" fixed-top" >
         <form className="container-fluid justify-content-star">
+          
         <Link className="navbar-brand" to="/home"><button className="btn btn-primary " >Headlines</button></Link>
          <Link className="navbar-brand" to="/business"><button className="btn btn-outline-warning " >Business</button></Link>
          <Link className="navbar-brand" to="/entertainment"><button className="btn btn-outline-warning " >Entertainment</button></Link>
